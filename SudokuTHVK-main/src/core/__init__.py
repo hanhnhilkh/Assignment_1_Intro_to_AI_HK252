@@ -1,0 +1,1 @@
+#hi, em biết là Python 3 không cần __init__.py nữa nhưng em vẫn muốn giữ file này để đánh dấu thư mục này là một package ạ :D
